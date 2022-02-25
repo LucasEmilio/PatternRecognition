@@ -27,10 +27,3 @@ Prob2 = PxC2 + b3;
 %Normalizando las probabilidades
 ProbxC1N = (prob1/Prob1+Prob2)*100;
 ProbxC2N = (prob2/Prob1+Prob2)*100;
-
-
-%Practica3 agregar a la practica2 el clasificador de Bayes, con la opcion
-%de todos para que compare resultados y decida cual es el mas
-%exacto, todavia no hay fecha (posiblemente el martes 02 de marzo), practica2 para el viernes, en el examen va a
-%haber una parte de teoria(1pt), tres problemas (3pts c/u) los problemas se
-%van a basar en las practicas
